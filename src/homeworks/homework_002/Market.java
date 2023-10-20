@@ -1,12 +1,14 @@
-package seminars.seminar_002;
+package homeworks.homework_002;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 public class Market implements MarketBehaviour, QueueBehaviour {
     private final List<Actor> queue;
+    Random random = new Random();
 
-    public Market(){
+    public Market() {
         this.queue = new ArrayList<>();
     }
 
@@ -24,8 +26,8 @@ public class Market implements MarketBehaviour, QueueBehaviour {
 
     @Override
     public void takeOrders() {
-        for(Actor actor: queue){
-            if(!actor.isMakeOrder()){
+        for (Actor actor : queue) {
+            if (!actor.isMakeOrder()) {
                 actor.setMakeOrder(true);
                 System.out.println(actor.getName() + " сделал свой заказ");
             }
@@ -34,8 +36,8 @@ public class Market implements MarketBehaviour, QueueBehaviour {
 
     @Override
     public void giveOrders() {
-        for(Actor actor: queue){
-            if(actor.isMakeOrder()){
+        for (Actor actor : queue) {
+            if (actor.isMakeOrder()) {
                 actor.setTakeOrder(true);
                 System.out.println(actor.getName() + " получил свой заказ");
             }
@@ -54,9 +56,34 @@ public class Market implements MarketBehaviour, QueueBehaviour {
         releaseFromMarket(releasedActors);
     }
 
+//    @Override
+//    public void releaseFromQueue() {
+//        List<Actor> releasedActors = new ArrayList<>();
+//        boolean repeatOrder = true;
+//        while (repeatOrder) {
+//            for (Actor actor : queue) {
+//                if (actor.isTakeOrder()) {
+//                    releasedActors.add(actor);
+//                    System.out.println(actor.getName() + " вышел из очереди");
+//                }
+//            }
+//            repeatOrder = random.nextBoolean();
+//            if (repeatOrder) {
+//                for (Actor actor : releasedActors) {
+//                    takeInQueue(actor);
+//                }
+//                takeOrders();
+//                giveOrders();
+//            }
+//        }
+//        releaseFromMarket(releasedActors);
+//    }
+
+
+
     @Override
     public void releaseFromMarket(List<Actor> actors) {
-        for(Actor actor: actors){
+        for (Actor actor : actors) {
             System.out.println(actor.getName() + " вышел из магазина");
             queue.remove(actor);
         }
