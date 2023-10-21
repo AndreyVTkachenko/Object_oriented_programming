@@ -53,7 +53,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lessons.lesson_003.Ex007.Program">
+  <component name="RunManager" selected="Application.lessons.lesson_003.Ex006.Program">
     <configuration name="lessons.lesson_003.Ex002.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.lesson_003.Ex002.Program" />
       <module name="Object_oriented_programming" />
@@ -121,10 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lessons.lesson_003.Ex006.Program" />
         <item itemvalue="Application.lessons.lesson_003.Ex007.Program" />
         <item itemvalue="Application.lessons.lesson_003.Ex005.Program" />
         <item itemvalue="Application.lessons.lesson_003.Ex002.Program" />
-        <item itemvalue="Application.lessons.lesson_003.Ex006.Program" />
         <item itemvalue="Application.lessons.lesson_003.Ex004.Program" />
       </list>
     </recent_temporary>
