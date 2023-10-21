@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added homework 002">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_003/task description.md" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added lesson 004">
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_003/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_003/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_003/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_003/StudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_003/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_003/StudentGroupIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_003/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_003/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +29,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/seminars/seminar_003/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,7 +59,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex001_Game">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Ex001_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.lesson_004.Ex006.Ex001_Game" />
       <module name="Object_oriented_programming" />
@@ -63,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lessons.lesson_004.Ex003.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_004.Ex003.Program" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.seminar_003.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_004.Ex003.*" />
+          <option name="PATTERN" value="seminars.seminar_003.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Ex001_Game" />
         <item itemvalue="Application.lessons.lesson_004.Ex004.V3.Program" />
         <item itemvalue="Application.lessons.lesson_004.Ex004.V2.Program" />
         <item itemvalue="Application.lessons.lesson_004.Ex004.V1.Program" />
-        <item itemvalue="Application.lessons.lesson_004.Ex003.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697880711797</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added lesson 004">
+      <option name="closed" value="true" />
+      <created>1697894346040</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697894346040</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +287,7 @@
     <MESSAGE value="added seminar 002" />
     <MESSAGE value="added lesson 003" />
     <MESSAGE value="added homework 002" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework 002" />
+    <MESSAGE value="added lesson 004" />
+    <option name="LAST_COMMIT_MESSAGE" value="added lesson 004" />
   </component>
 </project>
