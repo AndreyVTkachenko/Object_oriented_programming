@@ -12,5 +12,8 @@ public class Main {
         market.acceptToMarket(human3);
         market.acceptToMarket(human4);
         market.update();
+        while (!market.checkActorInMarket()) {
+            market.update();
+        }
     }
 }

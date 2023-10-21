@@ -46,39 +46,29 @@ public class Market implements MarketBehaviour, QueueBehaviour {
 
     @Override
     public void releaseFromQueue() {
+        List<Actor> repeatInQueue = new ArrayList<>();
         List<Actor> releasedActors = new ArrayList<>();
-        for(Actor actor: queue){
-            if(actor.isTakeOrder()){
-                releasedActors.add(actor);
-                System.out.println(actor.getName() + " вышел из очереди и готов уходить");
+        boolean repeatOrder;
+        for (Actor actor : queue) {
+            if (actor.isTakeOrder()) {
+                repeatOrder = random.nextBoolean();
+                if (repeatOrder) {
+                    releasedActors.add(actor);
+                    System.out.println(actor.getName() + " вышел из очереди");
+                } else {
+                    actor.setMakeOrder(false);
+                    actor.setTakeOrder(false);
+                    repeatInQueue.add(actor);
+                    System.out.println(actor.getName() + " вышел из очереди, но не вышел из магазина");
+                }
             }
         }
         releaseFromMarket(releasedActors);
+        for (Actor actor : repeatInQueue) {
+            takeInQueue(actor);
+            queue.remove(actor);
+        }
     }
-
-//    @Override
-//    public void releaseFromQueue() {
-//        List<Actor> releasedActors = new ArrayList<>();
-//        boolean repeatOrder = true;
-//        while (repeatOrder) {
-//            for (Actor actor : queue) {
-//                if (actor.isTakeOrder()) {
-//                    releasedActors.add(actor);
-//                    System.out.println(actor.getName() + " вышел из очереди");
-//                }
-//            }
-//            repeatOrder = random.nextBoolean();
-//            if (repeatOrder) {
-//                for (Actor actor : releasedActors) {
-//                    takeInQueue(actor);
-//                }
-//                takeOrders();
-//                giveOrders();
-//            }
-//        }
-//        releaseFromMarket(releasedActors);
-//    }
-
 
 
     @Override
@@ -94,5 +84,9 @@ public class Market implements MarketBehaviour, QueueBehaviour {
         takeOrders();
         giveOrders();
         releaseFromQueue();
+    }
+
+    public boolean checkActorInMarket () {
+        return queue.isEmpty();
     }
 }
