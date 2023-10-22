@@ -18,9 +18,9 @@ public class Main {
         Student student10 = new Student("Иван", "Сидорович", "Петров", 1010);
         Student student11 = new Student("Сидор", "Петрович", "Иванов", 1011);
         Student student12 = new Student("Пётр", "Сидорович", "Сидоров", 1012);
-        Student student13 = new Student("Пётр", "Сидорович", "Сидоров", 1013);
-        Student student14 = new Student("Пётр", "Сидорович", "Сидоров", 1014);
-        Student student15 = new Student("Пётр", "Сидорович", "Сидоров", 1015);
+        Student student13 = new Student("Пётр", "Иванович", "Сидоров", 1013);
+        Student student14 = new Student("Сидор", "Иванович", "Петров", 1014);
+        Student student15 = new Student("Иван", "Сидорович", "Сидоров", 1015);
 
         Curator curator01 = new Curator("Сергей", "Сергеевич", "Сергеев", 9001);
         Curator curator02 = new Curator("Антон", "Антонович", "Антонов", 9002);
