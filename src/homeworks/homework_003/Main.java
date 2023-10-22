@@ -18,28 +18,35 @@ public class Main {
         Student student11 = new Student("Сидор", "Петрович", "Иванов", 1011);
         Student student12 = new Student("Пётр", "Сидорович", "Сидоров", 1012);
 
-        Curator curator01 = new Curator("Сергей", "Сергеевич", "Сергеев", 9001);
-        Curator curator02 = new Curator("Антон", "Антонович", "Антонов", 9002);
+//        Curator curator01 = new Curator("Сергей", "Сергеевич", "Сергеев", 9001);
+//        Curator curator02 = new Curator("Антон", "Антонович", "Антонов", 9002);
+//        Curator curator03 = new Curator("Роман", "Романович", "Романов", 9003);
 
-        List<Student> group01 = new ArrayList<Student, Curator>();
-        List<Student, Curator> group02 = new ArrayList<>();
+//        List<Student> group01 = new ArrayList<Student, Curator>();
+//        List<Student, Curator> group02 = new ArrayList<>();
+//        List<> group03 = new ArrayList<>(Student, Curator);
+        List<Student> group01 = new ArrayList<>();
+        List<Student> group02 = new ArrayList<>();
+        List<Student> group03 = new ArrayList<>();
 
 
         group01.add(student01);
-        group01.add(student03);
-        group01.add(student05);
+        group01.add(student04);
         group01.add(student07);
-        group01.add(student09);
-        group01.add(student11);
-        group01.add(curator01);
+        group01.add(student10);
+//        group01.add(curator01);
 
         group02.add(student02);
-        group02.add(student04);
-        group02.add(student06);
+        group02.add(student05);
         group02.add(student08);
-        group02.add(student10);
-        group02.add(student12);
-        group02.add(curator02);
+        group02.add(student11);
+//        group02.add(curator02);
+
+        group03.add(student03);
+        group03.add(student06);
+        group03.add(student09);
+        group03.add(student12);
+//        group03.add(curator03);
 
     }
 }

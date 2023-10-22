@@ -6,9 +6,9 @@ import java.util.List;
 
 public class StudentGroup implements Iterable<Student> {
     private List<Student> studentList = new ArrayList<>();
-    private Curator teacher;
+    private Teacher teacher;
 
-    public StudentGroup(List<Student> list, Curator teacher) {
+    public StudentGroup(List<Student> list, Teacher teacher) {
         this.studentList = list;
         this.teacher = teacher;
     }
@@ -17,11 +17,11 @@ public class StudentGroup implements Iterable<Student> {
         return studentList;
     }
 
-    public Curator getTeacher() {
+    public Teacher getTeacher() {
         return teacher;
     }
 
-    public void setTeacher(Curator teacher) {
+    public void setTeacher(Teacher teacher) {
         this.teacher = teacher;
     }
 
