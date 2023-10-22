@@ -6,11 +6,11 @@ import java.util.List;
 public class StudentGroup {
     public StudentGroup(List<Student> studentList, List<Curator> curatorList) {
         this.studentList = studentList;
-        this.teacherList = curatorList;
+        this.curatorList = curatorList;
     }
 
     private List<Student> studentList = new ArrayList<>();
-    private List<Curator> teacherList = new ArrayList<>();
+    private List<Curator> curatorList = new ArrayList<>();
 
     public List<Student> getStudentList() {
         return studentList;
@@ -18,7 +18,7 @@ public class StudentGroup {
     }
 
     public List<Curator> getTeacherList() {
-        return teacherList;
+        return curatorList;
     }
 
     public void addStudent(Student student) {
@@ -26,6 +26,6 @@ public class StudentGroup {
     }
 
     public void addTeacher(Curator curator) {
-        this.teacherList.add(curator);
+        this.curatorList.add(curator);
     }
 }
