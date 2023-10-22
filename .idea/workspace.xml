@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 004 sample">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_003/StreamComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_003/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_003/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_003/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_003/Stream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_003/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_003/StudentGroup.java" afterDir="false" />
-    </list>
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added homework 003" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697964263800</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added homework 003">
+      <option name="closed" value="true" />
+      <created>1697980861948</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697980861948</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,8 +335,8 @@
     <MESSAGE value="added homework 002" />
     <MESSAGE value="added lesson 004" />
     <MESSAGE value="added seminar 003" />
-    <MESSAGE value="added homework 003" />
     <MESSAGE value="added seminar 004 sample" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 004 sample" />
+    <MESSAGE value="added homework 003" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework 003" />
   </component>
 </project>
