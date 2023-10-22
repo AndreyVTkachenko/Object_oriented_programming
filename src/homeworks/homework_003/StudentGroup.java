@@ -3,7 +3,7 @@ package homeworks.homework_003;
 import java.util.ArrayList;
 import java.util.List;
 
-public class StudentGroup {
+public class StudentGroup implements Comparable<StudentGroup>{
     public StudentGroup(List<Student> studentList, List<Curator> curatorList) {
         this.studentList = studentList;
         this.curatorList = curatorList;
@@ -17,7 +17,7 @@ public class StudentGroup {
 
     }
 
-    public List<Curator> getTeacherList() {
+    public List<Curator> getCuratorList() {
         return curatorList;
     }
 
@@ -27,5 +27,10 @@ public class StudentGroup {
 
     public void addTeacher(Curator curator) {
         this.curatorList.add(curator);
+    }
+
+    @Override
+    public int compareTo(StudentGroup otherGroup) {
+        return Integer.compare(this.studentList.size(), otherGroup.getStudentList().size());
     }
 }
