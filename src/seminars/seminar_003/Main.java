@@ -18,7 +18,7 @@ public class Main {
         Student student10 = new Student("Иван", "Сидорович", "Петров", 1010);
         Student student11 = new Student("Сидор", "Петрович", "Иванов", 1011);
         Student student12 = new Student("Пётр", "Сидорович", "Сидоров", 1012);
-        Teacher teacher = new Teacher("Сергей", "Сергеевич", "Сергеев", 9001);
+        Curator teacher = new Curator("Сергей", "Сергеевич", "Сергеев", 9001);
 
         List<Student> list = new ArrayList<>();
         list.add(student04);

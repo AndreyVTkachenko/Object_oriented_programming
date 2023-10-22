@@ -1,10 +1,10 @@
 package seminars.seminar_003;
 
-public class Teacher extends User {
+public class Curator extends User {
 
     private int teacherId;
 
-    public Teacher(String firstName, String secondName, String lastName, int teacherId) {
+    public Curator(String firstName, String secondName, String lastName, int teacherId) {
         super(firstName, secondName, lastName);
         this.teacherId = teacherId;
     }
