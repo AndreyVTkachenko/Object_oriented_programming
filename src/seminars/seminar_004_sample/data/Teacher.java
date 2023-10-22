@@ -1,4 +1,4 @@
-package seminars.seminar_004.data;
+package seminars.seminar_004_sample.data;
 
 import java.time.LocalDate;
 import java.util.Comparator;

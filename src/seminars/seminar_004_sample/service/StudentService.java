@@ -1,6 +1,6 @@
-package seminars.seminar_004.service;
+package seminars.seminar_004_sample.service;
 
-import seminars.seminar_004.data.Student;
+import seminars.seminar_004_sample.data.Student;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

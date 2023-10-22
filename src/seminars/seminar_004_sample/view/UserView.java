@@ -1,6 +1,6 @@
-package seminars.seminar_004.view;
+package seminars.seminar_004_sample.view;
 
-import seminars.seminar_004.data.User;
+import seminars.seminar_004_sample.data.User;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package seminars.seminar_004.controller;
+package seminars.seminar_004_sample.controller;
 
-import ru.gb.oseminar.data.User;
+import seminars.seminar_004_sample.data.User;
 
 import java.time.LocalDate;
 

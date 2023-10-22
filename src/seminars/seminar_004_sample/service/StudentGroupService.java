@@ -1,9 +1,9 @@
-package seminars.seminar_004.service;
+package seminars.seminar_004_sample.service;
 
-import seminars.seminar_004.data.Student;
-import seminars.seminar_004.data.UserComparator;
-import seminars.seminar_004.data.StudentGroup;
-import seminars.seminar_004.data.Teacher;
+import seminars.seminar_004_sample.data.Student;
+import seminars.seminar_004_sample.data.UserComparator;
+import seminars.seminar_004_sample.data.StudentGroup;
+import seminars.seminar_004_sample.data.Teacher;
 
 import java.util.ArrayList;
 import java.util.Collections;

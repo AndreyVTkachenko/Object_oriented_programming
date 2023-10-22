@@ -1,7 +1,7 @@
-package seminars.seminar_004.view;
+package seminars.seminar_004_sample.view;
 
-import seminars.seminar_004.data.Student;
-import seminars.seminar_004.data.StudentGroup;
+import seminars.seminar_004_sample.data.Student;
+import seminars.seminar_004_sample.data.StudentGroup;
 
 import java.util.List;
 import java.util.logging.Logger;

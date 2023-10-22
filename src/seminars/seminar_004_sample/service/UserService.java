@@ -1,4 +1,4 @@
-package seminars.seminar_004.service;
+package seminars.seminar_004_sample.service;
 
 import java.time.LocalDate;
 import java.util.List;

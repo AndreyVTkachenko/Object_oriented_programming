@@ -1,10 +1,10 @@
-package seminars.seminar_004.controller;
+package seminars.seminar_004_sample.controller;
 
-import seminars.seminar_004.data.Student;
-import seminars.seminar_004.data.Teacher;
-import seminars.seminar_004.service.StudentGroupService;
-import seminars.seminar_004.service.StudentService;
-import seminars.seminar_004.view.StudentView;
+import seminars.seminar_004_sample.data.Student;
+import seminars.seminar_004_sample.data.Teacher;
+import seminars.seminar_004_sample.service.StudentGroupService;
+import seminars.seminar_004_sample.service.StudentService;
+import seminars.seminar_004_sample.view.StudentView;
 
 import java.time.LocalDate;
 import java.util.Collections;
