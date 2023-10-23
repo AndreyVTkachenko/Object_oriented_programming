@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added homework 003">
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/data/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/data/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/data/StudentGroupIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/data/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/data/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/data/UserComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/view/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_004/view/UserView.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 004">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/controller/TeacherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/data/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/data/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/service/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/task description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/view/TeacherView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/view/UserView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -62,16 +59,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/seminar_004",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/homeworks/homework_004",
     "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_004" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\seminar_004" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seminars.seminar_004.Main">
+  <component name="RunManager" selected="Application.homeworks.homework_004.Main">
     <configuration name="Ex001_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.lesson_004.Ex006.Ex001_Game" />
       <module name="Object_oriented_programming" />
@@ -111,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lessons.lesson_004.Ex004.V3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_004.Ex004.V3.Program" />
+    <configuration name="homeworks.homework_004.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_004.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_004.Ex004.V3.*" />
+          <option name="PATTERN" value="homeworks.homework_004.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeworks.homework_004.Main" />
         <item itemvalue="Application.seminars.seminar_004.Main" />
         <item itemvalue="Application.homeworks.homework_003.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Ex001_Game" />
-        <item itemvalue="Application.lessons.lesson_004.Ex004.V3.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697981087796</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added seminar 004">
+      <option name="closed" value="true" />
+      <created>1698076550120</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1698076550120</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,6 +381,7 @@
     <MESSAGE value="added seminar 003" />
     <MESSAGE value="added seminar 004 sample" />
     <MESSAGE value="added homework 003" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework 003" />
+    <MESSAGE value="added seminar 004" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 004" />
   </component>
 </project>
