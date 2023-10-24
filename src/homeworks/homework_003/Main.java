@@ -26,9 +26,11 @@ public class Main {
         Curator curator02 = new Curator("Антон", "Антонович", "Антонов", 9002);
         Curator curator03 = new Curator("Роман", "Романович", "Романов", 9003);
 
+        List<Student> studentList = new ArrayList<>();
         List<Student> group01 = new ArrayList<>();
         List<Student> group02 = new ArrayList<>();
         List<Student> group03 = new ArrayList<>();
+
         List<Curator> curatorList = new ArrayList<>();
         curatorList.add(curator01);
         curatorList.add(curator02);
@@ -56,27 +58,27 @@ public class Main {
         StudentGroup studentGroup03 = new StudentGroup(group03, curatorList);
 
         List<StudentGroup> studentGroups = new ArrayList<>();
-        studentGroups.add(studentGroup01);
-        studentGroups.add(studentGroup02);
-        studentGroups.add(studentGroup03);
+        studentGroups.add(studentGroup01); // 6 студентов, 3 куратора
+        studentGroups.add(studentGroup02); // 4 студента, 3 куратора
+        studentGroups.add(studentGroup03); // 5 студентов, 3 куратора
+
+        studentGroups.sort(new StreamComparator());
+
+//        System.out.println("Без сортировки:");
+//        for (StudentGroup group : studentGroups) {
+//            System.out.println("Группа с " + group.getStudentList().size() + " студентами");
+//        }
+//
+//        Collections.sort(studentGroups);
+//
+//        System.out.println("После сортировки:");
+//        for (StudentGroup group : studentGroups) {
+//            System.out.println("Группа с " + group.getStudentList().size() + " студентами");
+//        }
 
         Stream stream = new Stream(studentGroups);
-
-        System.out.println("Без сортировки:");
-        for (StudentGroup group : stream) {
-            System.out.println("Группа с " + group.getStudentList().size() + " студентами");
-        }
-
-        Collections.sort(studentGroups);
-        System.out.println("После сортировки:");
-        for (StudentGroup group : stream) {
-            System.out.println("Группа с " + group.getStudentList().size() + " студентами");
-        }
-
-        Collections.reverse(studentGroups);
-        System.out.println("После обратной сортировки:");
-        for (StudentGroup group : stream) {
-            System.out.println("Группа с " + group.getStudentList().size() + " студентами");
+        for (StudentGroup studentGroup : stream) {
+            System.out.println(studentGroup);
         }
     }
 }

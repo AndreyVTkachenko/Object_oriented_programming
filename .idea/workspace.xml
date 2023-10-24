@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 004">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/controller/TeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/data/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/data/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/data/UserComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/service/TeacherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/task description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/view/TeacherView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_004/view/UserView.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added homework 004">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_003/StreamIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_003/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_003/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_003/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_003/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_003/StreamComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_003/StreamComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_003/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_003/StudentGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/homeworks/homework_004",
-    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/homeworks/homework_004&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_004" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\seminar_004" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homeworks.homework_004.Main">
+  <component name="RunManager" selected="Application.homeworks.homework_003.Main">
     <configuration name="Ex001_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.lesson_004.Ex006.Ex001_Game" />
       <module name="Object_oriented_programming" />
@@ -137,9 +131,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeworks.homework_003.Main" />
         <item itemvalue="Application.homeworks.homework_004.Main" />
         <item itemvalue="Application.seminars.seminar_004.Main" />
-        <item itemvalue="Application.homeworks.homework_003.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Ex001_Game" />
       </list>
@@ -354,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698076550120</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="added homework 004">
+      <option name="closed" value="true" />
+      <created>1698081024794</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1698081024794</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,6 +384,7 @@
     <MESSAGE value="added seminar 004 sample" />
     <MESSAGE value="added homework 003" />
     <MESSAGE value="added seminar 004" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 004" />
+    <MESSAGE value="added homework 004" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework 004" />
   </component>
 </project>

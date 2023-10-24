@@ -10,8 +10,22 @@ public class Stream implements Iterable<StudentGroup> {
         this.studentGroups = studentGroups;
     }
 
+    public List<StudentGroup> getStudentGroups() {
+        return studentGroups;
+    }
+
+    public void addStudentGroups(List<StudentGroup> studentGroup) {
+        studentGroups.add((StudentGroup) studentGroup);
+    }
+
     @Override
     public Iterator<StudentGroup> iterator() {
-        return studentGroups.iterator();
+        return new StreamIterator(this);
+    }
+
+    @Override
+    public String toString() {
+        return "Поток:" +
+                " студенческая группа: " + studentGroups;
     }
 }

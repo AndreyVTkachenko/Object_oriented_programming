@@ -25,12 +25,19 @@ public class StudentGroup implements Comparable<StudentGroup>{
         this.studentList.add(student);
     }
 
-    public void addTeacher(Curator curator) {
+    public void addCurator(Curator curator) {
         this.curatorList.add(curator);
     }
 
     @Override
-    public int compareTo(StudentGroup otherGroup) {
-        return Integer.compare(this.studentList.size(), otherGroup.getStudentList().size());
+    public String toString() {
+        return "Студенческая группа: " +
+                studentList +
+                curatorList;
+    }
+
+    @Override
+    public int compareTo(StudentGroup o) {
+        return Integer.compare(this.studentList.size(), o.getStudentList().size());
     }
 }
