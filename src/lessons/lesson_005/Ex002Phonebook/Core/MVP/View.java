@@ -7,5 +7,4 @@ public interface View {
     void setLastName(String value);
     String getDescription();
     void setDescription(String value);
-    //
 }
