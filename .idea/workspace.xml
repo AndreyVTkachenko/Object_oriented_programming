@@ -4,8 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added edits to lesson 005">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added lesson 006">
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/BottleOfWaterVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWaterVendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/BottleOfWatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/ActorBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/ActorBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/Market.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/MarketBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/MarketBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/QueueBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/QueueBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/К заданию 001.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/К заданию 001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/К заданию 002.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/К заданию 002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/StudentComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/StudentComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/StudentGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/StudentGroupIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/StudentGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/StudentGroupIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/UserComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/UserComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/view/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/view/StudentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/view/UserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/view/UserView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/StudentGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/StudentGroupIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/UserComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/UserComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/service/StudentGroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/service/StudentGroupService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/view/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/view/StudentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/view/UserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/view/UserView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698248141577</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="added lesson 006">
+      <option name="closed" value="true" />
+      <created>1698495482945</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1698495482945</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,6 +464,7 @@
     <MESSAGE value="added homework 003" />
     <MESSAGE value="added lesson 005" />
     <MESSAGE value="added edits to lesson 005" />
-    <option name="LAST_COMMIT_MESSAGE" value="added edits to lesson 005" />
+    <MESSAGE value="added lesson 006" />
+    <option name="LAST_COMMIT_MESSAGE" value="added lesson 006" />
   </component>
 </project>
