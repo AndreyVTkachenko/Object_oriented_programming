@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added lesson 005">
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_005/Ex001Calc/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_005/Ex002Phonebook/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_005/Ex003Math/ReadMe.md" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added edits to lesson 005">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_005/Ex001Calc/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_005/Ex001Calc/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_005/Ex002Phonebook/Core/MVP/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_005/Ex002Phonebook/Core/MVP/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_005/Ex003Math/Client/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_005/Ex003Math/Client/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +58,13 @@
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\seminar_004" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lessons.lesson_005.Ex003Math.Client.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_005.Ex001Calc.Program" />
+  <component name="RunManager" selected="Application.Ex001_2SRP">
+    <configuration name="Ex001_2SRP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex001_2SRP" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_005.Ex001Calc.*" />
+          <option name="PATTERN" value="lessons.lesson_006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeworks.homework_003.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_003.Main" />
+    <configuration name="Ex004_1ISP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex004_1ISP" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_003.*" />
+          <option name="PATTERN" value="lessons.lesson_006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeworks.homework_004.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_004.Main" />
+    <configuration name="Ex004_2ISP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex004_2ISP" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_004.*" />
+          <option name="PATTERN" value="lessons.lesson_006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lessons.lesson_005.Ex002Phonebook.Client.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_005.Ex002Phonebook.Client.Program" />
+    <configuration name="Ex005_1DIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex005_1DIP" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_005.Ex002Phonebook.Client.*" />
+          <option name="PATTERN" value="lessons.lesson_006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lessons.lesson_005.Ex003Math.Client.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_005.Ex003Math.Client.Program" />
+    <configuration name="Ex005_2DIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex005_2DIP" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_005.Ex003Math.Client.*" />
+          <option name="PATTERN" value="lessons.lesson_006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lessons.lesson_005.Ex003Math.Client.Program" />
-        <item itemvalue="Application.lessons.lesson_005.Ex002Phonebook.Client.Program" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.homeworks.homework_003.Main" />
-        <item itemvalue="Application.homeworks.homework_004.Main" />
+        <item itemvalue="Application.Ex001_2SRP" />
+        <item itemvalue="Application.Ex004_2ISP" />
+        <item itemvalue="Application.Ex005_2DIP" />
+        <item itemvalue="Application.Ex005_1DIP" />
+        <item itemvalue="Application.Ex004_1ISP" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698170791920</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added edits to lesson 005">
+      <option name="closed" value="true" />
+      <created>1698248141577</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1698248141577</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,6 +405,7 @@
     <MESSAGE value="added homework 004" />
     <MESSAGE value="added homework 003" />
     <MESSAGE value="added lesson 005" />
-    <option name="LAST_COMMIT_MESSAGE" value="added lesson 005" />
+    <MESSAGE value="added edits to lesson 005" />
+    <option name="LAST_COMMIT_MESSAGE" value="added edits to lesson 005" />
   </component>
 </project>
