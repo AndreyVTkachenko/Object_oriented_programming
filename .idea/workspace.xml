@@ -4,17 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 001 Badeev">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/model/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/model/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/service/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/view/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/view/TeacherView.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 005 Moiseev">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/StudyGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/service/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/service/StudyGroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/task description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/view/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/view/TeacherView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,33 +61,24 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/Badeev/seminar_001/iter_004_1",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/homeworks/homework_005/view",
     "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_005\view" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_005\model" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_001\iter_004_1" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_001\iter_003" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_001\iter_002" />
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_004" />
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\seminar_004" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="homeworks.homework_005.service" />
+      <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="B$UserSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_001.super_and_this.B$UserSuper" />
-      <module name="Object_oriented_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_001.super_and_this.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.homeworks.homework_003.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_005.Main" />
       <module name="Object_oriented_programming" />
@@ -112,12 +105,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_pol_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_001.polymorphism.Task_pol_001" />
+    <configuration name="homeworks.homework_003.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_003.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_001.polymorphism.*" />
+          <option name="PATTERN" value="homeworks.homework_003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeworks.homework_005.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_005.Main" />
+      <module name="Object_oriented_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.homework_005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeworks.homework_003.Main" />
+        <item itemvalue="Application.homeworks.homework_005.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Shapes" />
         <item itemvalue="Application.seminars.Badeev.seminar_001.iter_001.Shapes" />
-        <item itemvalue="Application.Task_pol_001" />
-        <item itemvalue="Application.B$UserSuper" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698559513988</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="added seminar 005 Moiseev">
+      <option name="closed" value="true" />
+      <created>1698571112573</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1698571112573</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,6 +460,7 @@
     <MESSAGE value="added edits to lesson 005" />
     <MESSAGE value="added lesson 006" />
     <MESSAGE value="added seminar 001 Badeev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 001 Badeev" />
+    <MESSAGE value="added seminar 005 Moiseev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 005 Moiseev" />
   </component>
 </project>
