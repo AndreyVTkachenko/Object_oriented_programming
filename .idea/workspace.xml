@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added lesson 006">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_001/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_001/ToShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_002/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_002/ToShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_003/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_003/ToShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_004/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_004/ToShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_004_1/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_004_1/ToShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/polymorphism/Task_pol_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/super_and_this/UserSuper.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 001 Badeev">
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/model/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/service/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/view/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_005/view/TeacherView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -73,7 +72,7 @@
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\seminar_004" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Shapes">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="B$UserSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_001.super_and_this.B$UserSuper" />
       <module name="Object_oriented_programming" />
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex001_2SRP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex001_2SRP" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_005.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_006.*" />
+          <option name="PATTERN" value="seminars.Moiseev.seminar_005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Shapes" />
         <item itemvalue="Application.seminars.Badeev.seminar_001.iter_001.Shapes" />
         <item itemvalue="Application.Task_pol_001" />
         <item itemvalue="Application.B$UserSuper" />
-        <item itemvalue="Application.Ex001_2SRP" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698496208224</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added seminar 001 Badeev">
+      <option name="closed" value="true" />
+      <created>1698559513988</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1698559513988</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,6 +445,7 @@
     <MESSAGE value="added lesson 005" />
     <MESSAGE value="added edits to lesson 005" />
     <MESSAGE value="added lesson 006" />
-    <option name="LAST_COMMIT_MESSAGE" value="added lesson 006" />
+    <MESSAGE value="added seminar 001 Badeev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 001 Badeev" />
   </component>
 </project>
