@@ -5,57 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added lesson 006">
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/BottleOfWaterVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWaterVendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/BottleOfWatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_001/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/ActorBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/ActorBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/Market.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/MarketBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/MarketBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/QueueBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/QueueBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/К заданию 001.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/К заданию 001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_002/К заданию 002.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_002/К заданию 002.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/StudentComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/StudentComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/StudentGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/StudentGroupIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_003/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_003/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/StudentGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/StudentGroupIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/data/UserComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/data/UserComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/view/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/view/StudentView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004/view/UserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004/view/UserView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/StudentGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/StudentGroupIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/data/UserComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/data/UserComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/service/StudentGroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/service/StudentGroupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/view/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/view/StudentView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_004_sample/view/UserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_004_sample/view/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_001/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_001/ToShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_002/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_002/ToShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_003/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_003/ToShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_004/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_004/ToShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_004_1/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/iter_004_1/ToShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/polymorphism/Task_pol_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_001/super_and_this/UserSuper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,22 +55,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/homeworks/homework_004&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/Badeev/seminar_001/iter_004_1",
+    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_001\iter_004_1" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_001\iter_003" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_001\iter_002" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_004" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\seminar_004" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex001_2SRP">
+  <component name="RunManager" selected="Application.Shapes">
+    <configuration name="B$UserSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_001.super_and_this.B$UserSuper" />
+      <module name="Object_oriented_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminars.Badeev.seminar_001.super_and_this.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex001_2SRP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex001_2SRP" />
       <module name="Object_oriented_programming" />
@@ -122,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex004_1ISP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex004_1ISP" />
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_001.iter_004.Shapes" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_006.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_001.iter_004.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex004_2ISP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex004_2ISP" />
+    <configuration name="Task_pol_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_001.polymorphism.Task_pol_001" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_006.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_001.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,25 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex005_1DIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex005_1DIP" />
+    <configuration name="seminars.Badeev.seminar_001.iter_001.Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_001.iter_001.Shapes" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_006.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex005_2DIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_006.Ex005_2DIP" />
-      <module name="Object_oriented_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessons.lesson_006.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_001.iter_001.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.seminars.Badeev.seminar_001.iter_001.Shapes" />
+        <item itemvalue="Application.Task_pol_001" />
+        <item itemvalue="Application.B$UserSuper" />
         <item itemvalue="Application.Ex001_2SRP" />
-        <item itemvalue="Application.Ex004_2ISP" />
-        <item itemvalue="Application.Ex005_2DIP" />
-        <item itemvalue="Application.Ex005_1DIP" />
-        <item itemvalue="Application.Ex004_1ISP" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698495482945</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="added lesson 006">
+      <option name="closed" value="true" />
+      <created>1698496208224</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1698496208224</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
