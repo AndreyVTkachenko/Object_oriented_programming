@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 005 Moiseev">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/StudyGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/service/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/service/StudyGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/task description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/view/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_005/view/TeacherView.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added homework 005">
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_001/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_001/product/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_001/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_001/vending_machine/VendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,15 +49,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/homeworks/homework_005/view",
-    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_005\view" />
@@ -78,7 +71,7 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homeworks.homework_003.Main">
+  <component name="RunManager" selected="Application.seminars.Aktybaev.seminar_001.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_005.Main" />
       <module name="Object_oriented_programming" />
@@ -131,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Badeev.seminar_001.iter_001.Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_001.iter_001.Shapes" />
+    <configuration name="seminars.Aktybaev.seminar_001.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_001.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_001.iter_001.*" />
+          <option name="PATTERN" value="seminars.Aktybaev.seminar_001.product.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homeworks.homework_003.Main" />
+        <item itemvalue="Application.seminars.Aktybaev.seminar_001.Main" />
         <item itemvalue="Application.homeworks.homework_005.Main" />
+        <item itemvalue="Application.homeworks.homework_003.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Shapes" />
-        <item itemvalue="Application.seminars.Badeev.seminar_001.iter_001.Shapes" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698571112573</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="added homework 005">
+      <option name="closed" value="true" />
+      <created>1698582906707</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1698582906707</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,6 +462,7 @@
     <MESSAGE value="added lesson 006" />
     <MESSAGE value="added seminar 001 Badeev" />
     <MESSAGE value="added seminar 005 Moiseev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 005 Moiseev" />
+    <MESSAGE value="added homework 005" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework 005" />
   </component>
 </project>
