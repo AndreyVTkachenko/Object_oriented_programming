@@ -4,27 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 002 Aktybaev">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task001/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task001/Numeric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task001/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task001/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task002/Iconst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task002/IconstD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task003/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task003/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task003/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task003/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task004/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task004/MyIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task004/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task005/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task005/MyIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task005/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task006/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task006/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task006/EngineInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_002/task006/Main.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 002 Badeev">
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_001/Ivalue001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_001/Ivalue002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_001/Ivalue003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_001/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_002/ISomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_002/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_003/Main001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_003/Main002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_004/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_004/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_005/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_005/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_006/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_006/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_007/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_007/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" afterDir="false" />
     </list>
@@ -87,13 +83,13 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seminars.Badeev.seminar_002.task006.Main">
-    <configuration name="IconstD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_002.task002.IconstD" />
+  <component name="RunManager" selected="Application.seminars.Badeev.seminar_003.task_007.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_003.task_006.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_002.task002.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_003.task_006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Badeev.seminar_002.task003.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_002.task003.Main" />
+    <configuration name="Main002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_003.task_003.Main002" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_002.task003.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_003.task_003.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Badeev.seminar_002.task004.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_002.task004.Main" />
+    <configuration name="seminars.Badeev.seminar_003.task_004.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_003.task_004.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_002.task004.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_003.task_004.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Badeev.seminar_002.task005.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_002.task005.Main" />
+    <configuration name="seminars.Badeev.seminar_003.task_005.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_003.task_005.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_002.task005.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_003.task_005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Badeev.seminar_002.task006.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_002.task006.Main" />
+    <configuration name="seminars.Badeev.seminar_003.task_007.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_003.task_007.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_002.task006.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_003.task_007.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.seminars.Badeev.seminar_002.task006.Main" />
-        <item itemvalue="Application.seminars.Badeev.seminar_002.task005.Main" />
-        <item itemvalue="Application.seminars.Badeev.seminar_002.task004.Main" />
-        <item itemvalue="Application.seminars.Badeev.seminar_002.task003.Main" />
-        <item itemvalue="Application.IconstD" />
+        <item itemvalue="Application.seminars.Badeev.seminar_003.task_007.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.seminars.Badeev.seminar_003.task_005.Main" />
+        <item itemvalue="Application.seminars.Badeev.seminar_003.task_004.Main" />
+        <item itemvalue="Application.Main002" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699156684724</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="added seminar 002 Badeev">
+      <option name="closed" value="true" />
+      <created>1699165476998</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1699165476998</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,6 +501,7 @@
     <MESSAGE value="added homework 005" />
     <MESSAGE value="added seminar 001 Aktybaev" />
     <MESSAGE value="added seminar 002 Aktybaev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 002 Aktybaev" />
+    <MESSAGE value="added seminar 002 Badeev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 002 Badeev" />
   </component>
 </project>
