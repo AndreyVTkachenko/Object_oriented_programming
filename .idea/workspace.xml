@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 002 Badeev">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_001/Ivalue001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_001/Ivalue002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_001/Ivalue003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_001/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_002/ISomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_002/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_003/Main001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_003/Main002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_004/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_004/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_005/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_005/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_006/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_006/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_007/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_003/task_007/Main.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 003 Badeev">
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_003/study_group/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_003/study_group/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_003/study_group/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_003/study_group/StudentComparatorByAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_003/study_group/StudentComparatorByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_003/study_group/StudentIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_003/study_group/StudyGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" afterDir="false" />
     </list>
@@ -83,7 +74,7 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seminars.Badeev.seminar_003.task_007.Main">
+  <component name="RunManager" selected="Application.seminars.Aktybaev.seminar_003.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_003.task_006.Main" />
       <module name="Object_oriented_programming" />
@@ -97,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_003.task_003.Main002" />
+    <configuration name="seminars.Aktybaev.seminar_003.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_003.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_003.task_003.*" />
+          <option name="PATTERN" value="seminars.Aktybaev.seminar_003.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.seminars.Aktybaev.seminar_003.Main" />
         <item itemvalue="Application.seminars.Badeev.seminar_003.task_007.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.seminars.Badeev.seminar_003.task_005.Main" />
         <item itemvalue="Application.seminars.Badeev.seminar_003.task_004.Main" />
-        <item itemvalue="Application.Main002" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699165476998</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="added seminar 003 Badeev">
+      <option name="closed" value="true" />
+      <created>1699182368207</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1699182368207</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,6 +501,7 @@
     <MESSAGE value="added seminar 001 Aktybaev" />
     <MESSAGE value="added seminar 002 Aktybaev" />
     <MESSAGE value="added seminar 002 Badeev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 002 Badeev" />
+    <MESSAGE value="added seminar 003 Badeev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 003 Badeev" />
   </component>
 </project>
