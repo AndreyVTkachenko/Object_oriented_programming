@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 003 Morozov">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/Battle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/warriors/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/warriors/Infantryman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/warriors/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/weapons/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/weapons/melee_weapon/Axe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/weapons/melee_weapon/Melee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/weapons/melee_weapon/Sword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/weapons/ranged_weapon/Bow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/weapons/ranged_weapon/CrossBow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_004/weapons/ranged_weapon/Ranged.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 005 Badeev">
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_005/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_005/CalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_005/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_005/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_005/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" afterDir="false" />
     </list>
@@ -61,16 +53,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/Aktybaev/seminar_004",
-    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/Aktybaev/seminar_004&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Aktybaev\seminar_004" />
@@ -89,13 +81,13 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seminars.Morozov.seminar_004.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_002.Main" />
+  <component name="RunManager" selected="Application.CalculatorMain">
+    <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_005.CalculatorMain" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Morozov.seminar_002.animals.base.*" />
+          <option name="PATTERN" value="seminars.Badeev.seminar_005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,10 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorMain" />
         <item itemvalue="Application.seminars.Morozov.seminar_004.Main" />
         <item itemvalue="Application.seminars.Morozov.seminar_003.interview_task.Main" />
         <item itemvalue="Application.seminars.Morozov.seminar_003.Main" />
-        <item itemvalue="Application.seminars.Morozov.seminar_002.Main" />
         <item itemvalue="Application.seminars.Morozov.seminar_001.Main" />
       </list>
     </recent_temporary>
@@ -526,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699458033480</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="added seminar 004 Morozov">
+      <option name="closed" value="true" />
+      <created>1699690242290</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1699690242290</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -541,8 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added seminar 002" />
-    <MESSAGE value="added lesson 003" />
     <MESSAGE value="added homework 002" />
     <MESSAGE value="added lesson 004" />
     <MESSAGE value="added seminar 003" />
@@ -566,7 +564,9 @@
     <MESSAGE value="added seminar 001 Morozov" />
     <MESSAGE value="added seminar 002 Morozov" />
     <MESSAGE value="added seminar 003 Morozov" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 003 Morozov" />
+    <MESSAGE value="added seminar 004 Morozov" />
+    <MESSAGE value="added seminar 005 Badeev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 005 Badeev" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
