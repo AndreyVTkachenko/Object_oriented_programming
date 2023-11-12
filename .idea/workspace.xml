@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 005 Badeev">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/model/FileOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/model/FileOperationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/model/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/model/RepositoryFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/model/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/views/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/views/ViewUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_005/views/validator/NameAndSurnameValidator.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 005 Morozov">
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/model/group/GroupItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/model/group/StudyGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/model/group/iterators/StudentIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/model/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/model/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/model/student/comparators/StudentComparatorByAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/model/student/comparators/StudentComparatorByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/presenter/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/commands/AddStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/commands/Finish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/commands/GetStudentsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/commands/SortByAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_005/view/commands/SortByName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" afterDir="false" />
     </list>
@@ -87,7 +94,7 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.seminars.Aktybaev.seminar_005.Main">
     <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_005.CalculatorMain" />
       <module name="Object_oriented_programming" />
@@ -114,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Morozov.seminar_003.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_003.Main" />
+    <configuration name="seminars.Aktybaev.seminar_005.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_005.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Morozov.seminar_003.*" />
+          <option name="PATTERN" value="seminars.Aktybaev.seminar_005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.seminars.Aktybaev.seminar_005.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CalculatorMain" />
         <item itemvalue="Application.seminars.Morozov.seminar_004.Main" />
         <item itemvalue="Application.seminars.Morozov.seminar_003.interview_task.Main" />
-        <item itemvalue="Application.seminars.Morozov.seminar_003.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -540,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699704586608</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="added seminar 005 Morozov">
+      <option name="closed" value="true" />
+      <created>1699716787689</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1699716787689</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added homework 002" />
     <MESSAGE value="added lesson 004" />
     <MESSAGE value="added seminar 003" />
     <MESSAGE value="added seminar 004 sample" />
@@ -580,7 +594,8 @@
     <MESSAGE value="added seminar 003 Morozov" />
     <MESSAGE value="added seminar 004 Morozov" />
     <MESSAGE value="added seminar 005 Badeev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 005 Badeev" />
+    <MESSAGE value="added seminar 005 Morozov" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 005 Morozov" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
