@@ -4,35 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 005 Aktybaev">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/DIP/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/DIP/DieselPetrol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/DIP/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/DIP/PetrolEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/DIP/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/DIP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/ISP/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/ISP/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/ISP/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/ISP/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/ISP/Shape3d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/LSP/QuadRangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/LSP/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/LSP/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/LSP/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/LSP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/OCP/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/OCP/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/OCP/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/OCP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/OCP/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/SRP/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/SRP/EmployeeSalaryCalculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/SRP/ReadMe.md" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 006 Moiseev">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_005/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_005/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_005/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_005/model/StudyGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_005/model/StudyGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/DIP/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/DIP/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/ISP/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/ISP/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/LSP/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/LSP/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/OCP/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/OCP/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/SRP/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_006/SRP/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -571,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699765043886</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="added seminar 006 Moiseev">
+      <option name="closed" value="true" />
+      <created>1700300418592</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1700300418592</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added seminar 003" />
     <MESSAGE value="added seminar 004 sample" />
     <MESSAGE value="added seminar 004" />
     <MESSAGE value="added homework 004" />
@@ -611,7 +596,8 @@
     <MESSAGE value="added seminar 005 Badeev" />
     <MESSAGE value="added seminar 005 Morozov" />
     <MESSAGE value="added seminar 005 Aktybaev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 005 Aktybaev" />
+    <MESSAGE value="added seminar 006 Moiseev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 006 Moiseev" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
