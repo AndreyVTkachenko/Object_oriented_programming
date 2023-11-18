@@ -14,9 +14,10 @@ public class Controller {
 
     /**
      * Создание студента
-     * @param firstName Имя
+     *
+     * @param firstName  Имя
      * @param secondName Отчество
-     * @param lastName Фамилия
+     * @param lastName   Фамилия
      */
     public void createStudent(String firstName, String secondName, String lastName) {
         dataService.create(firstName, secondName, lastName, Type.STUDENT);
@@ -34,9 +35,10 @@ public class Controller {
 
     /**
      * Создание учителя
-     * @param firstName Имя
+     *
+     * @param firstName  Имя
      * @param secondName Отчество
-     * @param lastName Фамилия
+     * @param lastName   Фамилия
      */
     public void createTeacher(String firstName, String secondName, String lastName) {
         dataService.create(firstName, secondName, lastName, Type.TEACHER);
@@ -53,24 +55,31 @@ public class Controller {
     }
 
 
-
     // ???????????????????????????????????????????????????????????????????????????????????????????????????????????????
+
     /**
-     * Создание учебной группы
-     * @param studentList Список студентов
-     * @param teacher Учитель
+     * Создание студенческой группы
+     * @param studentList уже созданный список студентов
+     * @param teacher уже созданный учитель
      */
     public void createStudyGroup(List<Student> studentList, Teacher teacher) {
-//        StudyGroup studyGroup2 = new StudyGroup();
-//        StudyGroup studyGroup1 = new StudyGroup(List<Student> studentList, Teacher teacher);
-        StudyGroup studyGroup = new StudyGroup(studentList, teacher);
-
-
-
-        System.out.println("Учебная группа создана: " + studyGroup);
+        if (studentList != null) {
+            StudyGroup studyGroup = new StudyGroup(studentList, teacher);
+            for (Student student : studentList) {
+                studyGroup.addStudent(student);
+            }
+            studyGroup.addTeacher(teacher);
+        }
     }
 
     public void getAllStudyGroup() {
-
+        List<User> studentList = dataService.getAllStudent();
+        for (User user : studentList) {
+            studentView.printOnConsole((Student) user);
+        }
+        List<User> teacherList = dataService.getAllTeacher();
+        for (User user : teacherList) {
+            teacherView.printOnConsole((Teacher) user);
+        }
     }
 }

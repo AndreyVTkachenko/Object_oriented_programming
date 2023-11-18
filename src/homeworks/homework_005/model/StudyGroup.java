@@ -1,5 +1,6 @@
 package homeworks.homework_005.model;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class StudyGroup {
@@ -42,5 +43,14 @@ public class StudyGroup {
                 "teacher=" + teacher +
                 ", studentList=" + studentList +
                 '}';
+    }
+
+    public void addStudent(Student student) {
+        List<Student> studentsList = new ArrayList<>();
+        studentsList.add(student);
+    }
+
+    public void addTeacher(Teacher teacher) {
+        this.teacher = teacher;
     }
 }
