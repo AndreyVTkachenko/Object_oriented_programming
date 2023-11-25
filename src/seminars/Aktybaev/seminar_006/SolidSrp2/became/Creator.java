@@ -1,9 +1,8 @@
-package seminars.Morozov.seminar_006.SOLID2Srp2.became;
+package seminars.Aktybaev.seminar_006.SolidSrp2.became;
 
 import java.util.Scanner;
 
-public class FactoryCreator {
-
+public class Creator {
     public Order inputFromConsole(){
         return new Order(prompt("Client name: "), prompt("Product: "),
                 Integer.parseInt(prompt("Quantity: ")), Integer.parseInt(prompt("Price: ")));
