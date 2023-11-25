@@ -4,58 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 006 Moiseev">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/controller/TeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/data/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/data/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/data/UserComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/service/TeacherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/task description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/view/TeacherView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/view/UserView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Dependency_Inversion/became/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Dependency_Inversion/became/AnimalOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Dependency_Inversion/became/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Dependency_Inversion/became/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Dependency_Inversion/became/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Dependency_Inversion/was/AnimalOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Dependency_Inversion/was/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Dependency_Inversion/was/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/became/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/became/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/became/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/became/Fetchable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/became/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/became/Scratchable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/was/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/was/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/was/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Interface_Segregation/was/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Liskov_Substitution/became/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Liskov_Substitution/became/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Liskov_Substitution/became/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Liskov_Substitution/became/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Liskov_Substitution/was/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Liskov_Substitution/was/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Liskov_Substitution/was/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Liskov_Substitution/was/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/became/AnimalSoundManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/became/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/became/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/became/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/became/IMakeSound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/became/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/was/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/was/AnimalSoundManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/was/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/was/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Open_Closed/was/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Single_Responsibility/became/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Single_Responsibility/became/AnimalActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Badeev/seminar_006/Single_Responsibility/was/Animal.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 006 Badeev">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID1Srp1/bacame/DrawSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID1Srp1/bacame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID1Srp1/bacame/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID1Srp1/task description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID1Srp1/was/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID1Srp1/was/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/became/FactoryCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/became/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/became/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/became/Preserved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/became/SaveToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/became/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/task description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/was/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/was/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID2Srp2/was/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/became/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/became/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/became/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/became/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/task description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/was/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/was/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/was/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID3Ocp1/was/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID4Lsp1/task description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID4Lsp1/was/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID4Lsp1/was/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID4Lsp1/was/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID4Lsp1/was/ViewShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/became/FactoryOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/became/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/became/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/became/OrderAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/became/OrderBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/became/OrderCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/was/FactoryOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/was/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/was/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/was/OrderBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID5Lsp2/was/OrderCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/became/InternetPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/became/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/became/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/became/PayableCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/became/PayablePhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/became/PayableWebMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/became/TerminalPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/was/InternetPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/was/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/was/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID6Isp1/was/TerminalPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/became/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/became/PrintReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/became/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/became/ReportItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/became/Reportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/was/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/was/PrintReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/was/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_006/SOLID7Dip/was/ReportItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,25 +111,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/Badeev/seminar_006/Interface_Segregation/became",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/Morozov/seminar_006/SOLID7Dip/became",
     "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_006\Interface_Segregation\became" />
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_006\Interface_Segregation\was" />
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_006\Liskov_Substitution\became" />
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Badeev\seminar_006\Open_Closed\became" />
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_006" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_006\SOLID7Dip\became" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_006\SOLID6Isp1\became" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_006\SOLID5Lsp2\became" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_006\SOLID4Lsp1\became" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_006\SOLID3Ocp1\became" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_006\SOLID2Srp2\was" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_006\SOLID2Srp2" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Aktybaev\seminar_004_1" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Aktybaev\seminar_004_2" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="seminars.Morozov.seminar_006.SOLID2Srp2.became" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="seminars.Badeev.seminar_004.task_002" />
@@ -126,13 +144,13 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seminars.Badeev.seminar_006.Interface_Segregation.became.Main">
+  <component name="RunManager" selected="Application.seminars.Morozov.seminar_006.SOLID7Dip.became.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_006.Dependency_Inversion.became.Main" />
+      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_006.SOLID7Dip.was.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_006.Dependency_Inversion.became.*" />
+          <option name="PATTERN" value="seminars.Morozov.seminar_006.SOLID7Dip.was.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_006.Liskov_Substitution.became.Main2" />
+    <configuration name="seminars.Morozov.seminar_006.SOLID5Lsp2.became.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_006.SOLID5Lsp2.became.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_006.Liskov_Substitution.became.*" />
+          <option name="PATTERN" value="seminars.Morozov.seminar_006.SOLID5Lsp2.became.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Badeev.seminar_006.Interface_Segregation.became.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_006.Interface_Segregation.became.Main" />
+    <configuration name="seminars.Morozov.seminar_006.SOLID6Isp1.became.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_006.SOLID6Isp1.became.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_006.Interface_Segregation.became.*" />
+          <option name="PATTERN" value="seminars.Morozov.seminar_006.SOLID6Isp1.became.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Badeev.seminar_006.Liskov_Substitution.became.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_006.Liskov_Substitution.became.Main" />
+    <configuration name="seminars.Morozov.seminar_006.SOLID6Isp1.was.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_006.SOLID6Isp1.was.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_006.Liskov_Substitution.became.*" />
+          <option name="PATTERN" value="seminars.Morozov.seminar_006.SOLID6Isp1.was.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Badeev.seminar_006.Liskov_Substitution.was.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Badeev.seminar_006.Liskov_Substitution.was.Main" />
+    <configuration name="seminars.Morozov.seminar_006.SOLID7Dip.became.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_006.SOLID7Dip.became.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Badeev.seminar_006.Liskov_Substitution.was.*" />
+          <option name="PATTERN" value="seminars.Morozov.seminar_006.SOLID7Dip.became.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.seminars.Badeev.seminar_006.Interface_Segregation.became.Main" />
-        <item itemvalue="Application.seminars.Badeev.seminar_006.Liskov_Substitution.became.Main" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.seminars.Badeev.seminar_006.Liskov_Substitution.was.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.seminars.Morozov.seminar_006.SOLID7Dip.became.Main" />
+        <item itemvalue="Application.seminars.Morozov.seminar_006.SOLID7Dip.Main" />
+        <item itemvalue="Application.seminars.Morozov.seminar_006.SOLID6Isp1.became.Main" />
+        <item itemvalue="Application.seminars.Morozov.seminar_006.SOLID6Isp1.was.Main" />
+        <item itemvalue="Application.seminars.Morozov.seminar_006.SOLID5Lsp2.became.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -210,14 +228,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697224772174</updated>
-    </task>
-    <task id="LOCAL-00002" summary="initial commit">
-      <option name="closed" value="true" />
-      <created>1697225226464</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1697225226464</updated>
     </task>
     <task id="LOCAL-00003" summary="initial commit">
       <option name="closed" value="true" />
@@ -603,7 +613,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700301523415</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="added seminar 006 Badeev">
+      <option name="closed" value="true" />
+      <created>1700392124789</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1700392124789</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -618,7 +636,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added seminar 004 sample" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added seminar 004" />
     <MESSAGE value="added homework 004" />
     <MESSAGE value="added homework 003" />
@@ -643,7 +661,8 @@
     <MESSAGE value="added seminar 005 Morozov" />
     <MESSAGE value="added seminar 005 Aktybaev" />
     <MESSAGE value="added seminar 006 Moiseev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 006 Moiseev" />
+    <MESSAGE value="added seminar 006 Badeev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 006 Badeev" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
