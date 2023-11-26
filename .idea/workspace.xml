@@ -4,51 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 006 Badeev">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/became/AdapterSensorTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/became/MS200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/became/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/became/MeteoSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/became/MeteoStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/became/ST500Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/became/SensorTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/was/MS200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/was/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/was/MeteoSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/was/MeteoStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/was/ST500Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Adapter/was/SensorTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/Calculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/CalculableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/ICalculableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/LogCalculableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/LogCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/became/ViewCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/was/Calculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/was/CalculableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/was/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/was/ICalculableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/was/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/DecoratorFactory/was/ViewCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/became/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/became/JobAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/became/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/became/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/became/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/became/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/became/Specialist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/became/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/was/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/was/JobAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/was/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/was/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/was/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/was/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Morozov/seminar_007/Observer/was/Student.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 007 Morozov">
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/SMSNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/SimpleNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/ClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/builder/BusinessCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/builder/BusinessCardBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/builder/LargeBusinessCardBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/builder/SmallBusinessCardBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/singleton/SimpleResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/DeveloperDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/JuniorDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/MiddleDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/SeniorDeveloper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,13 +108,13 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seminars.Morozov.seminar_007.Observer.became.Main">
+  <component name="RunManager" selected="Application.seminars.Aktybaev.seminar_007.behavioral.observer.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_007.Adapter.became.Main" />
+      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.creational.builder.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Morozov.seminar_007.Adapter.became.*" />
+          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.creational.builder.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Morozov.seminar_007.Adapter.was.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_007.Adapter.was.Main" />
+    <configuration name="seminars.Aktybaev.seminar_007.behavioral.chain.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.behavioral.chain.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Morozov.seminar_007.Adapter.was.*" />
+          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.behavioral.chain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Morozov.seminar_007.DecoratorFactory.became.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_007.DecoratorFactory.became.Main" />
+    <configuration name="seminars.Aktybaev.seminar_007.behavioral.observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.behavioral.observer.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Morozov.seminar_007.DecoratorFactory.became.*" />
+          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.behavioral.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Morozov.seminar_007.DecoratorFactory.was.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_007.DecoratorFactory.was.Main" />
+    <configuration name="seminars.Aktybaev.seminar_007.creational.singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.creational.singleton.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Morozov.seminar_007.DecoratorFactory.was.*" />
+          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.creational.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Morozov.seminar_007.Observer.became.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Morozov.seminar_007.Observer.became.Main" />
+    <configuration name="seminars.Aktybaev.seminar_007.structural.decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.structural.decorator.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Morozov.seminar_007.Observer.became.*" />
+          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.structural.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.seminars.Morozov.seminar_007.Observer.became.Main" />
-        <item itemvalue="Application.seminars.Morozov.seminar_007.DecoratorFactory.became.Main" />
-        <item itemvalue="Application.seminars.Morozov.seminar_007.DecoratorFactory.was.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.seminars.Morozov.seminar_007.Adapter.was.Main" />
+        <item itemvalue="Application.seminars.Aktybaev.seminar_007.behavioral.observer.Main" />
+        <item itemvalue="Application.seminars.Aktybaev.seminar_007.behavioral.chain.Main" />
+        <item itemvalue="Application.seminars.Aktybaev.seminar_007.structural.decorator.Main" />
+        <item itemvalue="Application.seminars.Aktybaev.seminar_007.creational.builder.Main" />
+        <item itemvalue="Application.seminars.Aktybaev.seminar_007.creational.singleton.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -212,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697224772174</updated>
-    </task>
-    <task id="LOCAL-00006" summary="added lesson 002">
-      <option name="closed" value="true" />
-      <created>1697291292605</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1697291292605</updated>
     </task>
     <task id="LOCAL-00007" summary="added homework 001">
       <option name="closed" value="true" />
@@ -605,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700981111605</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="added seminar 007 Morozov">
+      <option name="closed" value="true" />
+      <created>1700990246356</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1700990246356</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -621,7 +601,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added homework 003" />
     <MESSAGE value="added lesson 005" />
     <MESSAGE value="added edits to lesson 005" />
     <MESSAGE value="added lesson 006" />
@@ -646,7 +625,8 @@
     <MESSAGE value="added seminar 006 Morozov" />
     <MESSAGE value="added seminar 006 Aktybaev" />
     <MESSAGE value="added seminar 006 Badeev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 006 Badeev" />
+    <MESSAGE value="added seminar 007 Morozov" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 007 Morozov" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
