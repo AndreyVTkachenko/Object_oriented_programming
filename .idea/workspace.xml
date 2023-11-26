@@ -4,32 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 007 Morozov">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/EmailNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/SMSNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/chain/SimpleNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/ClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/behavioral/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/builder/BusinessCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/builder/BusinessCardBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/builder/LargeBusinessCardBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/builder/builder/SmallBusinessCardBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/creational/singleton/SimpleResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/DeveloperDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/JuniorDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/MiddleDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Aktybaev/seminar_007/structural/decorator/SeniorDeveloper.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 007 Aktybaev">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/data/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/data/StudentGroupIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/view/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/adapter/AdapterST500Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/adapter/MS200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/adapter/MeteoSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/adapter/MeteoStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/adapter/ST500Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/adapter/SensorTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/decorator/CheeseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/decorator/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/decorator/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/decorator/PizzaDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/decorator/SausageDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/decorator/TomatoDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/GemGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/GemReward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/GoldGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/GoldReward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/IGameItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/ItemGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/RubyGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/fabric_method/RubyReward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/observer/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/observer/JobAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/observer/JuniorDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/observer/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/observer/SeniorDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_007/observer/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_006/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/controller/TeacherController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/data/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_006/data/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/service/TeacherService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_006/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/task description.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_006/task description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/view/TeacherView.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,18 +99,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/Morozov/seminar_007/Observer/became",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/seminars/Moiseev/seminar_007/adapter",
     "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java",
     "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Moiseev\seminar_007\adapter" />
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\homeworks\homework_006" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_007\Observer\became" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_007\DecoratorFactory\became" />
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_007\Adapter\was" />
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Aktybaev\seminar_006\SolidSrp1\became" />
-      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Aktybaev\seminar_006\SolidOcp1\became" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Введение в ООП\Object_oriented_programming\src\seminars\Morozov\seminar_006\SOLID2Srp2\was" />
@@ -108,26 +128,13 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seminars.Aktybaev.seminar_007.behavioral.observer.Main">
+  <component name="RunManager" selected="Application.seminars.Moiseev.seminar_007.adapter.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.creational.builder.Main" />
+      <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_007.observer.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.creational.builder.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="seminars.Aktybaev.seminar_007.behavioral.chain.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.behavioral.chain.Main" />
-      <module name="Object_oriented_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.behavioral.chain.*" />
+          <option name="PATTERN" value="seminars.Moiseev.seminar_007.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Aktybaev.seminar_007.creational.singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.creational.singleton.Main" />
+    <configuration name="seminars.Moiseev.seminar_007.adapter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_007.adapter.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.creational.singleton.*" />
+          <option name="PATTERN" value="seminars.Moiseev.seminar_007.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +168,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.Aktybaev.seminar_007.structural.decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Aktybaev.seminar_007.structural.decorator.Main" />
+    <configuration name="seminars.Moiseev.seminar_007.decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_007.decorator.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.Aktybaev.seminar_007.structural.decorator.*" />
+          <option name="PATTERN" value="seminars.Moiseev.seminar_007.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seminars.Moiseev.seminar_007.fabric_method.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_007.fabric_method.Main" />
+      <module name="Object_oriented_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminars.Moiseev.seminar_007.fabric_method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.seminars.Moiseev.seminar_007.adapter.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.seminars.Moiseev.seminar_007.fabric_method.Main" />
+        <item itemvalue="Application.seminars.Moiseev.seminar_007.decorator.Main" />
         <item itemvalue="Application.seminars.Aktybaev.seminar_007.behavioral.observer.Main" />
-        <item itemvalue="Application.seminars.Aktybaev.seminar_007.behavioral.chain.Main" />
-        <item itemvalue="Application.seminars.Aktybaev.seminar_007.structural.decorator.Main" />
-        <item itemvalue="Application.seminars.Aktybaev.seminar_007.creational.builder.Main" />
-        <item itemvalue="Application.seminars.Aktybaev.seminar_007.creational.singleton.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -192,14 +212,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697224772174</updated>
-    </task>
-    <task id="LOCAL-00007" summary="added homework 001">
-      <option name="closed" value="true" />
-      <created>1697358433635</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1697358433635</updated>
     </task>
     <task id="LOCAL-00008" summary="added seminar 002">
       <option name="closed" value="true" />
@@ -585,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700990246356</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="added seminar 007 Aktybaev">
+      <option name="closed" value="true" />
+      <created>1701005525695</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1701005525695</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -601,7 +621,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added lesson 005" />
     <MESSAGE value="added edits to lesson 005" />
     <MESSAGE value="added lesson 006" />
     <MESSAGE value="added seminar 001 Badeev" />
@@ -626,7 +645,8 @@
     <MESSAGE value="added seminar 006 Aktybaev" />
     <MESSAGE value="added seminar 006 Badeev" />
     <MESSAGE value="added seminar 007 Morozov" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 007 Morozov" />
+    <MESSAGE value="added seminar 007 Aktybaev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 007 Aktybaev" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>

@@ -1,24 +1,24 @@
 package homeworks.homework_006;
 
-import homeworks.homework_006.controller.TeacherController;
+import homeworks.homework_006.controller.StudentController;
 
 public class Main {
-    static TeacherController teacherController = new TeacherController();
+    static StudentController studentController = new StudentController();
 
     public static void main(String[] args) {
-        teacherController.create("Иван", "Иванович", "Иванов");
-        teacherController.create("Пётр", "Петрович", "Петров");
-        teacherController.create("Сидор", "Сидорович", "Сидоров");
-        teacherController.create("Иван", "Петрович", "Иванов");
-        teacherController.create("Пётр", "Иванович", "Иванов");
-        teacherController.create("Иван", "Иванович", "Сидоров");
-        teacherController.create("Иван", "Петрович", "Сидоров");
-        teacherController.create("Сидор", "Иванович", "Сидоров");
-        teacherController.create("Иван", "Сидорович", "Иванов");
-        teacherController.create("Иван", "Сидорович", "Петров");
-        teacherController.create("Сидор", "Петрович", "Иванов");
-        teacherController.create("Пётр", "Сидорович", "Сидоров");
+        studentController.create("Иван", "Иванович", "Иванов");
+        studentController.create("Пётр", "Петрович", "Петров");
+        studentController.create("Сидор", "Сидорович", "Сидоров");
+        studentController.create("Иван", "Петрович", "Иванов");
+        studentController.create("Пётр", "Иванович", "Иванов");
+        studentController.create("Иван", "Иванович", "Сидоров");
+        studentController.create("Иван", "Петрович", "Сидоров");
+        studentController.create("Сидор", "Иванович", "Сидоров");
+        studentController.create("Иван", "Сидорович", "Иванов");
+        studentController.create("Иван", "Сидорович", "Петров");
+        studentController.create("Сидор", "Петрович", "Иванов");
+        studentController.create("Пётр", "Сидорович", "Сидоров");
+        studentController.printAllStudent();
 
-        teacherController.printAllTeacher();
     }
 }
