@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added homework 006">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex002/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex002/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex002/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex002/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex003/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex003/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex003/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex004/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex004/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex004/Robot3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex004/Robot3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex006/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex006/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex006/Teams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex006/Teams.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="updated lesson 001">
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex007/Healer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex007/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex007/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,14 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697224772174</updated>
-    </task>
-    <task id="LOCAL-00011" summary="added lesson 003">
-      <option name="closed" value="true" />
-      <created>1697772709819</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1697772709819</updated>
     </task>
     <task id="LOCAL-00012" summary="added lesson 003">
       <option name="closed" value="true" />
@@ -592,7 +576,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701481845909</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="updated lesson 001">
+      <option name="closed" value="true" />
+      <created>1715493577551</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1715493577551</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -608,7 +600,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added seminar 005 Moiseev" />
     <MESSAGE value="added homework 005" />
     <MESSAGE value="added seminar 001 Aktybaev" />
     <MESSAGE value="added seminar 002 Aktybaev" />
@@ -633,7 +624,8 @@
     <MESSAGE value="added seminar 007 Moiseev" />
     <MESSAGE value="added homework 007" />
     <MESSAGE value="added homework 006" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework 006" />
+    <MESSAGE value="updated lesson 001" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated lesson 001" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>

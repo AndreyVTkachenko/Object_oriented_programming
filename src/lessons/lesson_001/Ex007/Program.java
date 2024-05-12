@@ -56,5 +56,23 @@ public class Program {
 
         // todo добавить ещё один класс и 
         // реализовать возможность лечения героев
+
+
+        Healer healer = new Healer();
+        System.out.println(healer.getInfo());
+
+        System.out.println("------");
+
+        System.out.println("До исцеления:");
+        System.out.println(hero3.getInfo());
+        System.out.println(hero4.getInfo());
+
+        healer.heal(hero3);
+        healer.heal(hero4);
+
+        System.out.println("После исцеления:");
+        System.out.println(hero3.getInfo());
+        System.out.println(hero4.getInfo());
+
     }
 }
