@@ -27,7 +27,7 @@ public class Robot3 {
     /**
      * Создание робота
      * 
-     * @param name  Имя робота !Не должно начинаться с цифры
+     * @param name  Имя робота ! Не должно начинаться с цифры
      * @param level Уровень робота
      */
     private Robot3(String name, int level) {

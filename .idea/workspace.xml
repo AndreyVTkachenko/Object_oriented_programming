@@ -4,54 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added homework 007">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/data/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/data/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/data/StudentGroupIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/data/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/data/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/data/UserComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/SortFromFullName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/SortStudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/StudentGroupQueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/StudentGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/StudentSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/StudentSearchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/StudentSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/StudentSortService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/view/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/became/view/UserView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/description of changes to comply with SOLID.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/data/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/data/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/data/StudentGroupIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/data/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/data/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/service/StudentGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/view/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/view/UserView.java" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added homework 006">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/controller/StudentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/data/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/data/StudentGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/data/StudentGroupIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/data/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/data/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/data/UserComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_006/was/data/UserComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/service/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/view/StudentView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_006/view/UserView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex002/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex002/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex002/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex002/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex003/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex003/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex003/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex004/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex004/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex004/Robot3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex004/Robot3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex006/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex006/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex006/Teams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex006/Teams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex007/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex007/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AndreyVTkachenko&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AndreyVTkachenko/Object_oriented_programming.git&quot;,
+    &quot;accountId&quot;: &quot;1e343f8a-4b66-4030-aba2-070a9e1ec06a&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/seminars/seminar_003/Main.java" root0="SKIP_INSPECTION" />
   </component>
@@ -97,13 +72,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.PointMethod.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.Teams.executor": "Run",
+    "Application.homeworks.homework_007.Main.executor": "Run",
+    "Application.lessons.lesson_001.Ex003.Program.executor": "Run",
+    "Application.lessons.lesson_001.Ex004.Program.executor": "Run",
+    "Application.lessons.lesson_001.Ex005.Program.executor": "Run",
+    "Application.lessons.lesson_001.Ex006.Program.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/homeworks/homework_006/was",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gepat/Documents/training at GeekBrains/Введение в ООП/Object_oriented_programming",
     "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming/src/Main.java",
-    "settings.editor.selected.configurable": "proofread"
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -131,13 +115,13 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homeworks.homework_006.became.Main">
-    <configuration name="MainLoggingFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_007.MainLoggingFile" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex007.Program" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_007.model.*" />
+          <option name="PATTERN" value="lessons.lesson_001.Ex007.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeworks.homework_006.became.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_006.became.Main" />
+    <configuration name="Teams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex006.Teams" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_006.became.*" />
+          <option name="PATTERN" value="lessons.lesson_001.Ex006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeworks.homework_006.was.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_006.was.Main" />
+    <configuration name="lessons.lesson_001.Ex004.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex004.Program" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_006.was.*" />
+          <option name="PATTERN" value="lessons.lesson_001.Ex004.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeworks.homework_007.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_007.Main" />
+    <configuration name="lessons.lesson_001.Ex005.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex005.Program" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_007.*" />
+          <option name="PATTERN" value="lessons.lesson_001.Ex005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,25 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeworks.homework_007.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_007.Main" />
+    <configuration name="lessons.lesson_001.Ex006.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex006.Program" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_007.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="seminars.Moiseev.seminar_007.adapter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_007.adapter.Main" />
-      <module name="Object_oriented_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.Moiseev.seminar_007.adapter.*" />
+          <option name="PATTERN" value="lessons.lesson_001.Ex006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homeworks.homework_006.became.Main" />
-        <item itemvalue="Application.homeworks.homework_006.was.Main" />
-        <item itemvalue="Application.homeworks.homework_007.Main" />
-        <item itemvalue="Application.MainLoggingFile" />
-        <item itemvalue="Application.homeworks.homework_007.Main" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Teams" />
+        <item itemvalue="Application.lessons.lesson_001.Ex006.Program" />
+        <item itemvalue="Application.lessons.lesson_001.Ex005.Program" />
+        <item itemvalue="Application.lessons.lesson_001.Ex004.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -228,14 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697224772174</updated>
-    </task>
-    <task id="LOCAL-00010" summary="added homework 002">
-      <option name="closed" value="true" />
-      <created>1697771991168</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1697771991168</updated>
     </task>
     <task id="LOCAL-00011" summary="added lesson 003">
       <option name="closed" value="true" />
@@ -621,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701186512181</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="added homework 006">
+      <option name="closed" value="true" />
+      <created>1701481845909</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1701481845909</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -637,7 +608,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added seminar 001 Badeev" />
     <MESSAGE value="added seminar 005 Moiseev" />
     <MESSAGE value="added homework 005" />
     <MESSAGE value="added seminar 001 Aktybaev" />
@@ -662,7 +632,8 @@
     <MESSAGE value="added seminar 007 Aktybaev" />
     <MESSAGE value="added seminar 007 Moiseev" />
     <MESSAGE value="added homework 007" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework 007" />
+    <MESSAGE value="added homework 006" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework 006" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
