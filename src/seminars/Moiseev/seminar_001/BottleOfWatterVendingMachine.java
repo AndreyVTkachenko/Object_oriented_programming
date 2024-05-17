@@ -2,10 +2,10 @@ package seminars.Moiseev.seminar_001;
 
 import java.util.List;
 
-public class BottleOfWaterVendingMachine implements VendingMachine{
+public class BottleOfWatterVendingMachine implements VendingMachine{
     List<BottleOfWatter> bottleOfWatters;
 
-    public BottleOfWaterVendingMachine(List<BottleOfWatter> products) {
+    public BottleOfWatterVendingMachine(List<BottleOfWatter> products) {
         this.bottleOfWatters = products;
     }
 

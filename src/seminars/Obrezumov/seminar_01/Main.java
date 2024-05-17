@@ -1,14 +1,17 @@
-package seminars.Moiseev.seminar_001;
+package seminars.Obrezumov.seminar_01;
+
+import seminars.Moiseev.seminar_001.BottleOfWatter;
+import seminars.Moiseev.seminar_001.BottleOfWatterVendingMachine;
 
 import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        BottleOfWatter b1 = new BottleOfWatter("1", 1, 1);
-        BottleOfWatter b2 = new BottleOfWatter("2", 2, 2);
-        BottleOfWatter b3 = new BottleOfWatter("5", 4, 3);
-        BottleOfWatter b4 = new BottleOfWatter("15", 123, 1);
-        BottleOfWatter b5 = new BottleOfWatter("20", 6, 5);
+        BottleOfWatter b1 = new BottleOfWatter("a", 1, 1);
+        BottleOfWatter b2 = new BottleOfWatter("b", 2, 2);
+        BottleOfWatter b3 = new BottleOfWatter("c", 3, 3);
+        BottleOfWatter b4 = new BottleOfWatter("d", 10, 10);
+        BottleOfWatter b5 = new BottleOfWatter("e", 20, 20);
 
         BottleOfWatterVendingMachine vendingMachine = new BottleOfWatterVendingMachine(new ArrayList<>());
         vendingMachine.addBottleOfWater(b1);
@@ -16,11 +19,9 @@ public class Main {
         vendingMachine.addBottleOfWater(b3);
         vendingMachine.addBottleOfWater(b4);
         vendingMachine.addBottleOfWater(b5);
-        System.out.println(vendingMachine.getProduct("20", 5));
-        System.out.println(vendingMachine.getProduct("20", 100));
+
         for (BottleOfWatter b : vendingMachine.getBottleOfWatters()) {
             System.out.println(b);
         }
     }
-
 }

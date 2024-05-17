@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="updated lesson 001">
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex007/Healer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_001/Ex007/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_001/Ex007/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/BottleOfWaterVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/BottleOfWatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/task description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWaterVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWatterVendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +71,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BaseHero.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.PointMethod.executor": "Run",
     "Application.Program.executor": "Run",
     "Application.Teams.executor": "Run",
@@ -72,6 +81,7 @@
     "Application.lessons.lesson_001.Ex004.Program.executor": "Run",
     "Application.lessons.lesson_001.Ex005.Program.executor": "Run",
     "Application.lessons.lesson_001.Ex006.Program.executor": "Run",
+    "Application.seminars.Obrezumov.seminar_01.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -107,7 +117,33 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.seminars.Obrezumov.seminar_01.Main">
+    <configuration name="BaseHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex007.BaseHero" />
+      <module name="Object_oriented_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.lesson_001.Ex007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Moiseev.seminar_001.Main" />
+      <module name="Object_oriented_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminars.Moiseev.seminar_001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex007.Program" />
       <module name="Object_oriented_programming" />
@@ -134,38 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lessons.lesson_001.Ex004.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex004.Program" />
+    <configuration name="seminars.Obrezumov.seminar_01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.Obrezumov.seminar_01.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_001.Ex004.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lessons.lesson_001.Ex005.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex005.Program" />
-      <module name="Object_oriented_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessons.lesson_001.Ex005.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lessons.lesson_001.Ex006.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex006.Program" />
-      <module name="Object_oriented_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessons.lesson_001.Ex006.*" />
+          <option name="PATTERN" value="seminars.Obrezumov.seminar_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.seminars.Obrezumov.seminar_01.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.BaseHero" />
         <item itemvalue="Application.Teams" />
-        <item itemvalue="Application.lessons.lesson_001.Ex006.Program" />
-        <item itemvalue="Application.lessons.lesson_001.Ex005.Program" />
-        <item itemvalue="Application.lessons.lesson_001.Ex004.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697224772174</updated>
-    </task>
-    <task id="LOCAL-00012" summary="added lesson 003">
-      <option name="closed" value="true" />
-      <created>1697871421673</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1697871421673</updated>
     </task>
     <task id="LOCAL-00013" summary="added lesson 003">
       <option name="closed" value="true" />
@@ -584,7 +586,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715493577551</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="updated lesson 001">
+      <option name="closed" value="true" />
+      <created>1715494022861</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1715494022861</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
