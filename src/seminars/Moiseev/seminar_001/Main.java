@@ -16,8 +16,10 @@ public class Main {
         vendingMachine.addBottleOfWater(b3);
         vendingMachine.addBottleOfWater(b4);
         vendingMachine.addBottleOfWater(b5);
+
         System.out.println(vendingMachine.getProduct("20", 5));
         System.out.println(vendingMachine.getProduct("20", 100));
+
         for (BottleOfWatter b : vendingMachine.getBottleOfWatters()) {
             System.out.println(b);
         }

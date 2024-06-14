@@ -8,6 +8,10 @@ public class BottleOfWatter extends Product{
         this.volume = volume;
     }
 
+    public BottleOfWatter() {
+        super();
+    }
+
     public int getVolume() {
         return volume;
     }

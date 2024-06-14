@@ -2,11 +2,11 @@ package seminars.Obrezumov.seminar_01;
 
 import java.util.List;
 
-public class BottleOfWaterVendingMachine implements VendingMachine{
+public class BottleOfWatterVendingMachine implements VendingMachine{
     private final List<Product> productList;
     private int money;
 
-    public BottleOfWaterVendingMachine(List<Product> productList) {
+    public BottleOfWatterVendingMachine(List<Product> productList) {
         this.productList = productList;
     }
 
@@ -30,5 +30,9 @@ public class BottleOfWaterVendingMachine implements VendingMachine{
              }
          }
          return null;
+    }
+
+    public void addBottleOfWater(BottleOfWatter bottleOfWatter){
+        this.productList.add(new BottleOfWatter());
     }
 }

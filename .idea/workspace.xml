@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="updated lesson 001">
-      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/BottleOfWaterVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/BottleOfWatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/task description.txt" afterDir="false" />
+    <list default="true" id="8644bb6f-1704-4c5c-9075-b73534397e56" name="Changes" comment="added seminar 01 Obrezumov">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWaterVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWatterVendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_001/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_001/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWatterVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/BottleOfWatterVendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Moiseev/seminar_001/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/BottleOfWaterVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/BottleOfWatterVendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/BottleOfWatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/BottleOfWatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/Obrezumov/seminar_01/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,7 @@
     "Application.PointMethod.executor": "Run",
     "Application.Program.executor": "Run",
     "Application.Teams.executor": "Run",
+    "Application.homeworks.homework_001.Main.executor": "Run",
     "Application.homeworks.homework_007.Main.executor": "Run",
     "Application.lessons.lesson_001.Ex003.Program.executor": "Run",
     "Application.lessons.lesson_001.Ex004.Program.executor": "Run",
@@ -117,7 +117,7 @@
       <recent name="homeworks.homework_005.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seminars.Obrezumov.seminar_01.Main">
+  <component name="RunManager" selected="Application.homeworks.homework_001.Main">
     <configuration name="BaseHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex007.BaseHero" />
       <module name="Object_oriented_programming" />
@@ -157,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_001.Ex006.Teams" />
+    <configuration name="homeworks.homework_001.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_001.Main" />
       <module name="Object_oriented_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_001.Ex006.*" />
+          <option name="PATTERN" value="homeworks.homework_001.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeworks.homework_001.Main" />
         <item itemvalue="Application.seminars.Obrezumov.seminar_01.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.BaseHero" />
-        <item itemvalue="Application.Teams" />
       </list>
     </recent_temporary>
   </component>

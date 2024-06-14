@@ -32,6 +32,7 @@ public class BottleOfWatterVendingMachine implements VendingMachine{
         }
         return null;
     }
+
     public void addBottleOfWater(BottleOfWatter bottleOfWatter){
         this.bottleOfWatters.add(bottleOfWatter);
     }
